@@ -1,0 +1,1 @@
+This is a repository to create and collect the DS structured training with industry projects and interview guide
